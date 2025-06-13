@@ -83,6 +83,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/RobNR1458/RobNR1458/output/snake.svg" alt="Snake animation" />
 
 ###
