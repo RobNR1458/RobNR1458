@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Mechatronics Engineering student with hands-on experience in programming, control systems, automation, and both electrical and mechanical design. I enjoy building real-world solutions through technical projects and have a strong analytical mindset for solving complex problems. I'm proactive, team-oriented, and always eager to learn.<br>- <img src="https://flagcdn.com/w40/mx.png" width="24" alt="Mexico flag"/> I´m from Mexico <br>- 🔭 I’m currently in my last semester <br>- 📚I'm currently focused on learning all skills related to Full-Stack development, as I'm interested in steering my career more toward the programming side.<br>- 🇩🇪 In my free time, you’ll find me studying German, reading on my Kindle, working out at the gym, or playing PC video games.</p>
+<p align="left">Mechatronics Engineering student with hands-on experience in programming, control systems, automation, and both electrical and mechanical design. I enjoy building real-world solutions through technical projects and have a strong analytical mindset for solving complex problems. I'm proactive, team-oriented, and always eager to learn.<br>- <img src="https://flagcdn.com/w40/mx.png" width="24" alt="Mexico flag"/> I´m from Mexico <br>- 🔭 I’m currently in my last semester <br>- 📚I'm currently focused on learning all skills related to Full-Stack development, as I'm interested in steering my career more toward the programming side.<br>- <img src="https://flagcdn.com/w40/de.png" width="24" alt="German flag"/> In my free time, you’ll find me studying German, reading on my Kindle, working out at the gym, or playing PC video games.</p>
 
 ###
 
@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <a href="in/roberto-negrete-román" target="_blank">
+  <a href="www.linkedin.com/in/roberto-negrete-román" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:roberto-ne-ro@hotmail.com" target="_blank">
