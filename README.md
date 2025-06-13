@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Mechatronics Engineering student with hands-on experience in programming, control systems, automation, and both electrical and mechanical design. I enjoy building real-world solutions through technical projects and have a strong analytical mindset for solving complex problems. I'm proactive, team-oriented, and always eager to learn.<br>- 🇲🇽 I´m from Mexico <br>- 🔭 I’m currently in my last semester <br>- 📚I'm currently focused on learning all skills related to Full-Stack development, as I'm interested in steering my career more toward the programming side.<br>- 🇩🇪 In my free time, you’ll find me studying German, reading on my Kindle, working out at the gym, or playing PC video games.</p>
+<p align="left">Mechatronics Engineering student with hands-on experience in programming, control systems, automation, and both electrical and mechanical design. I enjoy building real-world solutions through technical projects and have a strong analytical mindset for solving complex problems. I'm proactive, team-oriented, and always eager to learn.<br>- <img src="https://flagcdn.com/w40/mx.png" width="24" alt="Mexico flag"/> I´m from Mexico <br>- 🔭 I’m currently in my last semester <br>- 📚I'm currently focused on learning all skills related to Full-Stack development, as I'm interested in steering my career more toward the programming side.<br>- 🇩🇪 In my free time, you’ll find me studying German, reading on my Kindle, working out at the gym, or playing PC video games.</p>
 
 ###
 
@@ -80,15 +80,5 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RobNR1458/RobNR1458/output/snake.svg" alt="Snake animation" />
 
 ###
