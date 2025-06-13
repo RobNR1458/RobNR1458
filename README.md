@@ -58,10 +58,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <h3 align="left">📬 Get in Touch</h3>
 
 ###
