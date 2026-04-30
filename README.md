@@ -52,7 +52,10 @@
 
 ###
 
-<a href="https://www.linkedin.com/in/roberto-negrete-rom%C3%A1n/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" /></a> <a href="mailto:roberto-ne-ro@hotmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="microsoft-outlook logo" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/roberto-negrete-rom%C3%A1n/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" /></a>
+<a href="mailto:roberto-ne-ro@hotmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="microsoft-outlook logo" /></a>
+</p>
 
 ###
 
