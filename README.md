@@ -2,6 +2,7 @@
 <img height="160" src="https://31.media.tumblr.com/09986226d8f379980ed638b5fd94b4cb/tumblr_msu2kr4D8J1scncwdo1_500.gif" alt="banner gif" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RobNR1458.RobNR1458" alt="visitor badge" />
 </div>
+
 ## Well, hello there! 👋
  
 <p align="center">It looks like you've stumbled upon my profile. First of all, welcome to my world!<br>If you're curious, feel free to keep scrolling and explore what I'm up to.</p>
