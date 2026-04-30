@@ -1,5 +1,5 @@
 <div>
-<div class="tenor-gif-embed" data-postid="15767473" data-share-method="host" data-aspect-ratio="1.29555" data-width="100%"><a href="https://tenor.com/view/pikachu-pokemon-waving-wink-cute-gif-15767473">Pikachu Pokemon GIF</a>from <a href="https://tenor.com/search/pikachu-gifs">Pikachu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/8CRuK01WKcMAAAAi/pokemon-pikachu.gif" alt="pikachu_waving" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RobNR1458.RobNR1458" alt="visitor badge" />
 </div> 
 
