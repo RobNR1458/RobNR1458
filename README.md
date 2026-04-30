@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://31.media.tumblr.com/09986226d8f379980ed638b5fd94b4cb/tumblr_msu2kr4D8J1scncwdo1_500.gif"  />
+  <img height="160" alt="Pikachu_waving" src="https://31.media.tumblr.com/09986226d8f379980ed638b5fd94b4cb/tumblr_msu2kr4D8J1scncwdo1_500.gif"  />
 </div>
 
 <div align="right">
