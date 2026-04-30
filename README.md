@@ -1,12 +1,14 @@
-<div style="margin-left:auto;">
+<div align=center">
 <img src="https://media.tenor.com/8CRuK01WKcMAAAAi/pokemon-pikachu.gif" alt="pikachu_waving" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=RobNR1458.RobNR1458" alt="visitor badge" />
 </div> 
-
+<div>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=RobNR1458.RobNR1458" alt="visitor badge" />
+</div>
 
 ## Well, hello there! 👋
  
 <p align="center">It looks like you've stumbled upon my profile. First of all, welcome to my world!<br>If you're curious, feel free to keep scrolling and explore what I'm up to.</p>
+
 ---
  
 ## 👩‍💻 About Me
