@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RobNR1458.RobNR1458" alt="visitor badge" />
 </div> -->
 
-![Pkachu_waving](https://31.media.tumblr.com/09986226d8f379980ed638b5fd94b4cb/tumblr_msu2kr4D8J1scncwdo1_500.gif)
+![Pkachu_waving](https://imgs.search.brave.com/oadZw6NY5AbZpnCcABAhLt8ejc2B2a8fhprEBe6mM-g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZWNvZGVjYW1w/Lm9yZy9uZXdzL2Nv/bnRlbnQvaW1hZ2Vz/L3NpemUvdzIwMDAv/MjAyNC8wNC9mcmVl/Y29kZWNhbXBsLWdp/dGh1Yi5wbmc)
 
 ## Well, hello there! 👋
  
