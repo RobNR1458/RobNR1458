@@ -1,4 +1,4 @@
-<div style="margin-right:auto">
+<div style="margin-left:auto;">
 <img src="https://media.tenor.com/8CRuK01WKcMAAAAi/pokemon-pikachu.gif" alt="pikachu_waving" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RobNR1458.RobNR1458" alt="visitor badge" />
 </div> 
