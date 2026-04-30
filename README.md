@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://media.tenor.com/8CRuK01WKcMAAAAi/pokemon-pikachu.gif" alt="pikachu_waving" height=300 />
+<img src="https://media.tenor.com/8CRuK01WKcMAAAAi/pokemon-pikachu.gif" alt="pikachu_waving" height="300" />
 </div> 
 <div align=right>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=RobNR1458.RobNR1458" alt="visitor badge" />
