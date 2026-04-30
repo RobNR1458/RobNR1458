@@ -45,24 +45,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
-
 ###
-
 <h3 align="left">📬 Get in Touch</h3>
-
 ###
-
-<div style="display:flex; justify-content:center; gap:20 px;">
-  <a href="https://www.linkedin.com/in/roberto-negrete-rom%C3%A1n/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:roberto-ne-ro@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
+<a href="https://www.linkedin.com/in/roberto-negrete-rom%C3%A1n/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
+</a>
+<a href="mailto:roberto-ne-ro@hotmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="37" height="25" alt="microsoft-outlook logo" />
+</a>
 ###
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif"  />
 </div>
